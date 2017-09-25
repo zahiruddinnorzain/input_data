@@ -2,4 +2,4 @@
 
 satu program untuk simpan database. Dimana ada input dan save ke file .svg  
 
-run index.py guna python
+run index.py guna python 2.7
